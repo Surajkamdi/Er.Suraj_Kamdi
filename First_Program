@@ -1,0 +1,7 @@
+Class SurajKamdi{
+public static void main(String args[]){
+System.out.prinltn("*************This is First Github Program**********");
+System.out.println("Er. Susraj Kamdi");
+System.out.println("***************************************************");
+}
+}
